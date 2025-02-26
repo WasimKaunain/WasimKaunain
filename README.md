@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WasimKaunain
-- 👀 I’m interested in web developement.
-- 🌱 I’m currently learning database and web developement.
+- 👀 I’m interested in Blockchain developement.
+- 🌱 I’m currently learning Cryptography and aspects of Computational Complexity theory.
 - 💞️ I’m looking to collaborate on C++ projects.
-- 📫 How to reach me: +91 7488789638.
+- 📫 How to reach me: wasimkonain@gmail.com
 
 <<!---
 WasimKaunain/WasimKaunain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
